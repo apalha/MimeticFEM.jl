@@ -1,6 +1,7 @@
-using MimeticFEM
+module MimeticFEMTests
+
 using Test
 
-@testset "MimeticFEM.jl" begin
-    # Write your tests here.
+@time @testset "Polynomials" begin include("Polynomials/runtests.jl") end
+
 end
