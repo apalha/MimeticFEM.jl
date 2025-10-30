@@ -8,14 +8,6 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Artur
-    family-names: Palha
-    email: a.palha@tudelft.nl
-    affiliation: Delft University of Technology
-  - given-names: Deepesh
-    family-names: Toshniwal
-    email: d.toshniwal@tudelft.nl
-    affiliation: Delft University of Technology
   - given-names: Diogo
     family-names: C. Cabanas
     email: d.costacabanas@tudelft.nl
@@ -23,6 +15,14 @@ authors:
   - given-names: Joey
     family-names: Dekker
     email: j.dekker-2@tudelft.nl
+    affiliation: Delft University of Technology
+  - given-names: Artur
+    family-names: Palha
+    email: a.palha@tudelft.nl
+    affiliation: Delft University of Technology
+  - given-names: Deepesh
+    family-names: Toshniwal
+    email: d.toshniwal@tudelft.nl
     affiliation: Delft University of Technology
 repository-code: 'https://github.com/MantisFEM/Mantis.jl'
 abstract: >-
