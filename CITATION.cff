@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mantis.jl
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Artur
+    family-names: Palha
+    email: a.palha@tudelft.nl
+    affiliation: Delft University of Technology
+  - given-names: Deepesh
+    family-names: Toshniwal
+    email: d.toshniwal@tudelft.nl
+    affiliation: Delft University of Technology
+  - given-names: Diogo
+    family-names: C. Cabanas
+    email: d.costacabanas@tudelft.nl
+    affiliation: Delft University of Technology
+  - given-names: Joey
+    family-names: Dekker
+    email: j.dekker-2@tudelft.nl
+    affiliation: Delft University of Technology
+repository-code: 'https://github.com/MantisFEM/Mantis.jl'
+abstract: >-
+  Mantis.jl is a finite element solver based on differential
+  geometry.
+keywords:
+  - FEM
+  - FEEC
+  - IGA
+  - Structure Preserving
+  - Mimetic Discretizations
+  - Adaptive Mesh Refinement
+license: MIT
